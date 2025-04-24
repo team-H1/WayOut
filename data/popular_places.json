@@ -1,0 +1,86 @@
+{
+  "world": [
+    {
+      "name": "Paris, France",
+      "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34"
+    },
+    {
+      "name": "New York City, USA",
+      "image": "https://images.unsplash.com/photo-1549924231-f129b911e442"
+    },
+    {
+      "name": "Tokyo, Japan",
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791"
+    },
+    {
+      "name": "Sydney, Australia",
+      "image": "https://images.unsplash.com/photo-1506973035872-a4ec16b8dcd3"
+    },
+    {
+      "name": "Cape Town, South Africa",
+      "image": "https://images.unsplash.com/photo-1584291527932-1a9f1f39e22e"
+    },
+    {
+      "name": "London, UK",
+      "image": "https://images.unsplash.com/photo-1566400176985-96bbf9af1d8b"
+    },
+    {
+      "name": "Barcelona, Spain",
+      "image": "https://images.unsplash.com/photo-1511131341194-ea40f3e8078b"
+    },
+    {
+      "name": "Rome, Italy",
+      "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231"
+    },
+    {
+      "name": "Bangkok, Thailand",
+      "image": "https://images.unsplash.com/photo-1505761671935-60b3a7427bad"
+    },
+    {
+      "name": "Dubai, UAE",
+      "image": "https://images.unsplash.com/photo-1536662987838-d8f70dbbeccf"
+    }
+  ],
+  "india": [
+    {
+      "name": "Taj Mahal, Agra",
+      "image": "https://images.unsplash.com/photo-1583241800608-4b36b4b8a1b2"
+    },
+    {
+      "name": "Jaipur, Rajasthan",
+      "image": "https://images.unsplash.com/photo-1600495018293-c52aa06f2701"
+    },
+    {
+      "name": "Goa",
+      "image": "https://images.unsplash.com/photo-1580191947416-8b7c0c6f5015"
+    },
+    {
+      "name": "Leh-Ladakh",
+      "image": "https://images.unsplash.com/photo-1509537257950-6fe6c6f9a1f5"
+    },
+    {
+      "name": "Varanasi, Uttar Pradesh",
+      "image": "https://images.unsplash.com/photo-1607082349631-197a5db469d1"
+    },
+    {
+      "name": "Kerala Backwaters",
+      "image": "https://images.unsplash.com/photo-1561907480-47d57c0c49ec"
+    },
+    {
+      "name": "Mumbai, Maharashtra",
+      "image": "https://images.unsplash.com/photo-1581349471709-69c850d1083f"
+    },
+    {
+      "name": "Rishikesh, Uttarakhand",
+      "image": "https://images.unsplash.com/photo-1633680193302-315f7c3cba7b"
+    },
+    {
+      "name": "Amritsar, Punjab",
+      "image": "https://images.unsplash.com/photo-1612700619021-9cc768936e65"
+    },
+    {
+      "name": "Hampi, Karnataka",
+      "image": "https://images.unsplash.com/photo-1628250243802-9e08365ce429"
+    }
+  ]
+}
